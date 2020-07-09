@@ -100,4 +100,10 @@
 
 .right-text {
 	font-size: 1.1em;
+	margin-top: 70px;
+}
+@media (max-width: 992px) {
+	.right-text {
+		margin-top: 0;
+	}
 }
